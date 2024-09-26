@@ -1,4 +1,4 @@
-# Encode_AI-and-GPT-Bootcamp-Q3-2024
+# OpenAI's API using text completion models
 ## Instructions / README
 * [Lesson-04 / exercises / 03-Text-Completion-Models.md](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/blob/main/Lesson-04/exercises/03-Text-Completion-Models.md)
 
